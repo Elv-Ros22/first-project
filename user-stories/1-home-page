@@ -1,0 +1,9 @@
+# User story 1: Home Page
+
+As a new user,
+I want to see a clean, visually appealing home page,
+so that I can easily navigate and find the services I'm interested in.
+
+# Acceptance Criteria
+
+-The navigation bar should include links to the following pages: Home, About Us, and Contact Us.

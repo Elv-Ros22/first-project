@@ -1,0 +1,9 @@
+# User story 3: Contact Us
+
+As a new user,
+I want to easily find the contact information for the company,
+So that I can ask questions and shcedule a visit to the facility.
+
+# Acceptance Criteria
+
+-The website should include a contact form with fields for name, email, and message.
